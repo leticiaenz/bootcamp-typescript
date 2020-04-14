@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leticiaenz/bootcamp-typescript.git",
+  "author": "leticiaenz <leticia.enz11@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
